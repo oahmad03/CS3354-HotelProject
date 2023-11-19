@@ -19,4 +19,4 @@ The IDE used was IntelliJ IDEA and the easiest way to run the code is to downloa
 This project also uses SQL and will require a local SQL server running our sqript if you would like to run it locally as our SQL server does not stay up 24/7.
 Download MySQLServer from the internet and install the server and the workplace to your device. Follow the setup to have an active, running SQL server. Then open the "SQL Script.sql" file and execute the code.
 Once all this is done, update the server path in the "conn.java" file to show your selected password instead of ours.
-After this the entire program should be fully operational on your computer.
+After this the entire program should be fully operational on your computer. Just run the "HotelManagementSystem.java" in your IDE.
